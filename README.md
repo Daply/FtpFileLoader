@@ -1,4 +1,4 @@
-# FtpFileLoader
+# FTP File Loader
 
 Simple file loader via ftp
 
